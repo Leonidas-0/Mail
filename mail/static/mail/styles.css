@@ -1,0 +1,42 @@
+textarea {
+    min-height: 400px;
+}
+html body {
+    text-align: center;
+}
+
+.content {
+    width: 300px;
+    border: none;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+
+#archive {
+    border-radius: 5px;
+    font-weight: bold;
+    color: white;
+}
+
+#buttons {
+    display: inline-block;
+}
+
+.button {
+    padding: 5px;
+    margin: 10px;
+    border: 2px solid;    
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+#mailspace {
+    display: inline-block;
+    text-align: left;
+}
+
+
+#mail {
+    display: flex;
+    align-items: left;
+}
